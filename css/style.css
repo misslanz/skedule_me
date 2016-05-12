@@ -1,0 +1,9 @@
+.logo_container img {
+	width: 15%;
+	position: relative;
+}
+.header_area {
+	background-color: gray;
+	height: 100px;
+	padding: 20px;
+}
